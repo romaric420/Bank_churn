@@ -16,7 +16,7 @@ Ce projet a été développé dans le cadre d'une compétition Kaggle.
 
 Grâce à une analyse exploratoire approfondie (EDA), des tests statistiques et des modèles prédictifs, nous identifions les profils à risque .
 
-NB: il ya des ameliorations a faire donc il yaura des mise a jour 
+NB: il ya des ameliorations a faire donc il yaura des updates
 ### 🎯 Objectif
 
 Prédire la probabilité qu'un client quitte la banque en analysant :
@@ -39,7 +39,7 @@ Prédire la probabilité qu'un client quitte la banque en analysant :
 
 ## 📊 Dataset
 
-Le dataset contient **10 000 clients** avec les variables suivantes :
+Le dataset contient  environ **10 000 clients** avec les variables suivantes :
 
 | Variable | Type | Description |
 |----------|------|-------------|
