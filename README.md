@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green?style=for-the-badge&logo=xgboost)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange?style=for-the-badge&logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
-
 ** Competion KAGGLE 🚀**
 
  • [📊 Dataset](#-dataset) • [🔧 Installation](#-installation) • [🚀 Utilisation](#-utilisation) • [📈 Résultats](#-résultats)
