@@ -7,9 +7,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange?style=for-the-badge&logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
-**Prédire le départ des clients bancaires avec Machine Learning 🚀**
+** Competion KAGGLE 🚀**
 
-[🎯 Démo](#-démo) • [📊 Dataset](#-dataset) • [🔧 Installation](#-installation) • [🚀 Utilisation](#-utilisation) • [📈 Résultats](#-résultats)
+ • [📊 Dataset](#-dataset) • [🔧 Installation](#-installation) • [🚀 Utilisation](#-utilisation) • [📈 Résultats](#-résultats)
 
 </div>
 
@@ -133,7 +133,7 @@ results.to_csv("predictions.csv")
 
 | Métrique | Score |
 |----------|-------|
-| F1-Score | 0. |
+| F1-Score | 0.6298 |
 
 ### 📊 Insights clés
 
@@ -221,13 +221,9 @@ Les contributions sont les bienvenues !
 
 ---
 
-## 📝 License
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
----
-
-## 👤 Auteur
+## 👤 codeur
 
 **Romaric420**
 
